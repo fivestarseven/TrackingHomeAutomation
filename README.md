@@ -16,7 +16,11 @@ Get home from work, house greets you, "welcome home master John, you have a meet
 
 
 Goals:
+
 1. Focus on indoor positioning abilities. The Raspberry Pi needs to be able to locate a single user in the house
+
 2. Plot this point on screen, likely through python
+
 3. Facilitate more users
+
 4. Implement automation system utilizing tracking/positioning abilities
